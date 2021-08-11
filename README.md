@@ -15,10 +15,10 @@ allprojects {
 
 ```gradle
 dependencies {
-	        implementation 'com.github.jeanclaudesoft:SmartDialog:Tag'
+	        implementation 'com.github.jeanclaudesoft:SmartDialog:1.0'
 	}
 ```
-Replace Tag by specific versionSmart
+
 
 >The library use lottie animation so add
 ```gradle
