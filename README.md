@@ -20,6 +20,11 @@ dependencies {
 ```
 Replace Tag by specific versionSmart
 
+>The library use lottie animation so add
+```gradle
+ implementation "com.airbnb.android:lottie:$lottieVersion"
+ ```
+
 >To show Success Dialog
 
 ```java
