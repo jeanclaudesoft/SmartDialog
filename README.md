@@ -24,7 +24,7 @@ Replace Tag by specific versionSmart
 ```gradle
  implementation "com.airbnb.android:lottie:$lottieVersion"
  ```
-
+To find lottie version visit https://github.com/airbnb/lottie-android
 >To show Success Dialog
 
 ```java
