@@ -24,7 +24,7 @@
             android:layout_height="120dp"
             android:layout_gravity="center_horizontal"
             app:lottie_autoPlay="true"
-            app:lottie_loop="true"
+            app:lottie_loop="false"
             app:lottie_rawRes="@raw/no_result" />
 
         <TextView
